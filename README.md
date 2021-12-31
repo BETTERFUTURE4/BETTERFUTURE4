@@ -19,7 +19,7 @@
   - Human Environment & Design
   - Computer Science
 
-## ⚙ Experiance
+## ⚙ Experience
 
 #### Languages
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
