@@ -25,8 +25,12 @@
 - Drawing & Make Pixel Art 🎨
 - Chiptune Music Composer 🎛
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical)
 
+<div align=center>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical)
+  
+</div>
 <!--
 **BETTERFUTURE4/BETTERFUTURE4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
