@@ -16,20 +16,20 @@
   - Major in Human Environment & Design
   - Major in Computer Science
 
-## ✨ Interest
+## 🔭 Interest
 - Java
-  - Spring & Spring Boot
+  - Spring & Spring Boot 🌱
   - Object Oriented Programming
   - Clean Code
 - Python, Node.js...
 - TDD
 
-## 🎈 Hobby
+## ⚡ Hobby
 - Drawing & Make Pixel Art 🎨
 - Chiptune Music Composer 🎛
 
 <div align=center>
-  
+  <p></p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical)
   
 </div>
