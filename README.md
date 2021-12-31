@@ -1,12 +1,11 @@
 <div align=center>
   
   ![midnight-final](https://user-images.githubusercontent.com/50815519/147802801-c148cc73-7be5-4298-a008-6aa609150cb6.gif)
-
-  <a href="https://velog.io/@betterfuture4" target="_blank"><img src="https://img.shields.io/badge/Velog-black?style=flat&logo=Vimeo&logoColor=white"/></a>
-  <a href="https://velog.io/@betterfuture4" target="_blank"><img src="https://img.shields.io/badge/Resume-green?style=flat&logo=BookStack&logoColor=white"/></a>
-  <a href="mailto:rerub0831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rerub0831@gmail.com-orange?style=flat&logo=Gmail&logoColor=white"/></a>
-  [![Resume Badge](http://img.shields.io/badge/-Portpolio-blueviolet?style=flat&logo=notion)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
-
+  
+  [![Dev Blog Badge](http://img.shields.io/badge/-DevBlog-black?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
+  [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
+  [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
+ [![Instagram Badge](https://img.shields.io/badge/-Insta-E4405F?style=flat&logo=instagram&logoColor=white)]()
 </div>
 
 ### 🏫 Education
@@ -16,7 +15,7 @@
   - Major in Human Environment & Design
   - Major in Computer Science
 
-### ❗️ Interest
+### ✨ Interest
 - Java
   - Spring & Spring Boot
   - Object Oriented Programming
