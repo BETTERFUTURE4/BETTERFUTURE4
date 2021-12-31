@@ -1,4 +1,8 @@
-### Hi there 👋
+<a href="rerub0831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rerub0831@gmail.com-orange?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@betterfuture4" target="_blank"><img src="https://img.shields.io/badge/Blog-green?style=flat&logo=BookStack&logoColor=white"/></a>
+<a href="rerub0831@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rerub0831@gmail.com-orange?style=flat&logo=Gmail&logoColor=white"/></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical)
 
 <!--
 **BETTERFUTURE4/BETTERFUTURE4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
