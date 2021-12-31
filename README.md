@@ -10,7 +10,7 @@
 
 ## 🏫 Education
 - 우아한테크코스 2022.02 ~
-- Yonsei University, Seoul Campus 2017.02 ~
+- Yonsei University, Sinchon Campus 2017.02 ~
   - Major in Korean literature & language
   - Major in Human Environment & Design
   - Major in Computer Science
