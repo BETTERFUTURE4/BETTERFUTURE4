@@ -8,14 +8,14 @@
  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rerub0831/)
 </div>
 
-### 🏫 Education
+## 🏫 Education
 - 우아한테크코스 2022.02 ~
 - Yonsei University, Seoul Campus 2017.02 ~
   - Major in Korean literature & language
   - Major in Human Environment & Design
   - Major in Computer Science
 
-### ✨ Interest
+## ✨ Interest
 - Java
   - Spring & Spring Boot
   - Object Oriented Programming
