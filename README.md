@@ -10,8 +10,8 @@
 </div>
 
 ## 🏫 Education
-- 우아한테크코스 4기 Backend 2022.02 ~
-- Yonsei University, Sinchon Campus 2017.02 ~
+- 우아한테크코스 4기 Backend (2022.02 ~)
+- Yonsei University, Sinchon Campus (2017.02 ~)
   - Major in Korean literature & language
   - Major in Human Environment & Design
   - Major in Computer Science
@@ -23,9 +23,10 @@
   - Clean Code
 - Python, Node.js...
 - TDD
+
+## 🎈 Hobby
 - Drawing & Make Pixel Art 🎨
 - Chiptune Music Composer 🎛
-
 
 <div align=center>
   
