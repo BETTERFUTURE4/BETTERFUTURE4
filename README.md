@@ -15,9 +15,6 @@
 ## 🏫 Education
 - 우아한테크코스 4기 Backend (2022.02 ~)
 - Yonsei University, Sinchon Campus (2017.02 ~)
-  - Korean literature & language
-  - Human Environment & Design
-  - Computer Science
 
 ## ⚙ Experience
 
