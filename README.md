@@ -5,7 +5,7 @@
   [![Dev Blog Badge](http://img.shields.io/badge/-DevBlog-black?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
   [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
   [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
- [![Instagram Badge](https://img.shields.io/badge/-Insta-E4405F?style=flat&logo=instagram&logoColor=white)]()
+ [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rerub0831/)
 </div>
 
 ### 🏫 Education
