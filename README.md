@@ -34,10 +34,10 @@
 
 ## 🔭 Interest
 - Java
-  - Spring & Spring Boot 🌱
+  - Spring & Spring Boot
+  - JPA
   - Object Oriented Programming
   - Clean Code
-- Python, Node.js...
 - TDD
 
 ## ⚡ Hobby
