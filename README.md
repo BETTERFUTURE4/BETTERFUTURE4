@@ -1,8 +1,8 @@
 <div align=center>
+<!--   ![BETTERFUTURE4's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical) -->
   
-<!--   <img src="https://user-images.githubusercontent.com/50815519/147802801-c148cc73-7be5-4298-a008-6aa609150cb6.gif" width="300" height="300"> -->
+  [![BETTERFUTURE4's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![BETTERFUTURE4's GitHub stats](https://github-readme-stats.vercel.app/api?username=BETTERFUTURE4&show_icons=true&theme=radical)
   
   [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
   [![Dev Blog Badge](http://img.shields.io/badge/-Dev_Blog-black?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
