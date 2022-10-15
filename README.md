@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Hunch&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20got%20a%20hunch!&fontSize=50)
+
 
 <div align=center>
-  
-  [![Dev Blog Badge](http://img.shields.io/badge/-Dev_Blog-black?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
-  [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/timeflies404/)
 
 ### See My Portpolio! 🥰
   
@@ -13,7 +10,7 @@
   [![Example](https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4 "Example")](https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4 "Example")
   [![trophy](https://github-profile-trophy.vercel.app/?username=betterfuture4&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
   
-<div align=center>
+<h3 align="center">•••</h3>
   
 ### 🛠 Tech Stack 🛠
 
@@ -28,7 +25,16 @@ Woowacourse 4th Backend
   
 Yonsei University : Korean Literature, Human Environment & Design, Computer Science
   
+<h3 align="center">•••</h3>
+  
+  [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
+  [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/timeflies404/)
+  
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
+
 
 <div align=right>
   
