@@ -32,10 +32,11 @@
 </div>
 
 ## 🏫 Education
-- 우아한테크코스 4기 Backend (2022.02 ~)
-- 연세대학교 신촌캠퍼스
-    - 국어국문학과 전공 (2017.03~)
-    - 생활디자인학과, 컴퓨터과학과 복수전공 (2020.03~)
+- Woowacourse 4 Backend (2022.02 ~)
+- Yonsei university in sinchon
+    - Korean literature (2017.03~)
+    - Human Environment & Design (2020.03~)
+    - Computer Science (2020.03~)
 
 <div align=right>
   
