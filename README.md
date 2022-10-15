@@ -33,7 +33,7 @@
 
 ## 🏫 Education
 - Woowacourse 4 Backend (2022.02 ~)
-- Yonsei university in sinchon
+- Yonsei University Sinchon
     - Korean literature (2017.03~)
     - Human Environment & Design (2020.03~)
     - Computer Science (2020.03~)
