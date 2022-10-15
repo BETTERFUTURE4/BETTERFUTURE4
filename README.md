@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20Got%20A%20Hunch!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I've%20Got%20A%20Hunch!&fontSize=50)
 
 
 <div align=center>
