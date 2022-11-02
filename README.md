@@ -7,7 +7,9 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=betterfuture4&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
   
   
-### If you want to Know Me, See My Portpolio! 🥰
+  안녕하세요, **비즈니스와 좋은 설계의 균형**을 찾는 백엔드 개발자 박지우입니다!
+  
+  ### If you want to Know Me, See My Portpolio! 🥰
   
   [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
   
