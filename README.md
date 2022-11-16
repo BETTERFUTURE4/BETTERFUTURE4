@@ -5,7 +5,7 @@
   
   [![Example](https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4 "Example")](https://github-stats-alpha.vercel.app/api?username=BETTERFUTURE4 "Example")
   [![trophy](https://github-profile-trophy.vercel.app/?username=betterfuture4&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-  [![blog][https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsluuuusy.notion.site%2FGithub-f2fc1343af4e4bee8c7754a9e82f7943&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  [![blog](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fsluuuusy.notion.site%2FGithub-f2fc1343af4e4bee8c7754a9e82f7943&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
   
   안녕하세요, **비즈니스와 좋은 설계의 균형**을 찾는 백엔드 개발자 박지우입니다!
   
