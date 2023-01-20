@@ -23,8 +23,6 @@
   
 `Woowacourse 4th Backend`
   
-`Yonsei University` | `Korean Literature` `Human Environment & Design` `Computer Science`
-  
 <h3 align="center">•••</h3>
   
   [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
