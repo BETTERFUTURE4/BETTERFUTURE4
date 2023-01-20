@@ -8,7 +8,7 @@
   
   안녕하세요, **비즈니스와 좋은 설계의 균형**을 찾는 백엔드 개발자 박지우입니다!
   
-  ### See My Portpolio! 🥰
+  ### Portpolio
   
   [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
   
@@ -31,7 +31,6 @@
   [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rerub0831/)
 
-  [![Slusy Sapzil Board](https://slusy.io/api/sapzil?userId=1439143)](https://slusy.io/profile/1439143?sapzil_guide=true)
 </div>
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
