@@ -14,12 +14,12 @@
   
 <h3 align="center">•••</h3>
   
-### 🛠 Tech Stack 🛠
+### Tech Stack
 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   
   
-  ### 🏫 Education 🏫
+  ### Education
   
 `Woowacourse 4th Backend`
   
