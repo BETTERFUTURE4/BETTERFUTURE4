@@ -10,7 +10,7 @@
   
   ### Portfolio
   
-  [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
+  [![Resume Badge](http://img.shields.io/badge/-Portfolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
   
 <h3 align="center">•••</h3>
   
