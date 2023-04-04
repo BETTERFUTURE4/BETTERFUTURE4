@@ -8,7 +8,7 @@
   
   안녕하세요, **비즈니스와 좋은 설계의 균형**을 찾는 백엔드 개발자 박지우입니다!
   
-  ### Portpolio
+  ### Portfolio
   
   [![Resume Badge](http://img.shields.io/badge/-Portpolio-green?style=flat&logo=notion&logoColor=white)](https://mima-o.notion.site/JIWOOPOLIO-57115a663d1f43ddab213eb448b96946)
   
