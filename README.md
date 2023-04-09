@@ -26,6 +26,7 @@
 <h3 align="center">•••</h3>
   
   [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@betterfuture4)
+  [![Dev Blog Badge](http://img.shields.io/badge/Tech%20Blog-11B48A?style=flat&logo=Vimeo&logoColor=white)](https://betterfuture4.github.io/)
   [![Email Badge](http://img.shields.io/badge/-Gmail-orange?style=flat&logo=Gmail&logoColor=white)](mailto:rerub0831@gmail.com)
   [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rerub0831/)
 
